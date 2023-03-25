@@ -65,8 +65,8 @@ print("-------------------")
 print(20* "=", "TIPE DATA DICTIONARY", 20* "=")
 print("Dictionary")
 Data_dictionary = {
-    "Nama"  : "BINTANG AUGRI FARIS",
-    "NIM"   : "I.2210458"
+    "Nama"  : "irpan saputra",
+    "NIM"   : "I.2210911"
 } #Kata Kunci  : #Nilai nya 
 print("""Dictionary merupakan tipe data yang digunakan untuk menyimpan suatu nilai data. Pada Dict terdapat kata kunci dan nilai dari kata kunci tsb. """)
 print("Nilai dari Data_dictionary =", Data_dictionary)
